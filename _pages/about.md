@@ -45,13 +45,13 @@ Current Projects
 
 Publications
 ======
-* K. Tang, S. Xu, X. Li, K. C. Ho, H. Kong and K. Doğançay, "Optimal Sensor Placement Using Decentralized TDOA Sensor Network in Source Localization," in IEEE Transactions on Aerospace and Electronic Systems, vol. 62, pp. 15133-15148, 2026, doi: 10.1109/TAES.2026.3721471.
+* K. Tang, S. Xu, X. Li, K. C. Ho, H. Kong and K. Doğançay, "Optimal Sensor Placement Using Decentralized TDOA Sensor Network in Source Localization," in IEEE Transactions on Aerospace and Electronic Systems, vol. 62, pp. 15133-15148, 2026, doi: [10.1109/TAES.2026.3721471](https://doi.org/10.1109/TAES.2026.3721471).
 * K. Tang, H. Yang, H. Abdulsattar and J. Wang, "From Tipping to Operability: Efficiency-Reliability Trade-offs in Mixed-Fleet Mobility-on-Demand," accepted by ITSC 2026.
 * K. Tang, H. Abdulsattar, H. Yang and J. Wang, "Energy and Operational Efficiency of Shared Autonomous fleet Powered with Battery Electric and Internal Combustion Engine Technologies", WCX SAE World Congress Experience, Detroit, Michigan, United States, April 14, 2026, [http://doi.org/10.4271/2026-01-0464](https://doi.org/10.4271/2026-01-0464).
 * K. Tang, H. Abdulsattar, H. Yang and J. Wang, "Comparative Evaluation of Battery Electric and Internal Combustion Vehicles in On-Demand Shared-Ride Services: Energy and Operational Efficiency," 2025 IEEE 28th International Conference on Intelligent Transportation Systems (ITSC), Gold Coast, Australia, 2025, pp. 4626-4632, doi: [10.1109/ITSC60802.2025.11423101](https://ieeexplore.ieee.org/document/11423101).
 * K. Tang, S. Xu, Y. Yang, H. Kong and Y. Ma, "Optimal Sensor Placement Using Combinations of Hybrid Measurements for Source Localization," 2024 IEEE Radar Conference (RadarConf24), Denver, CO, USA, 2024, pp. 1-6, doi: [10.1109/RadarConf2458775.2024.10548509](https://ieeexplore.ieee.org/document/10548509).
 * K. Tang, K. C. Ho, and S. Xu, "Optimal Sensor Placement for 3D Localization Using Freely Combination of AOA-RSS-TOA Observations via Group Theory and Tight Frames", submitted to IEEE Trans.
-
+* K. Tang, S. Xu, and K. C. Ho, "Optimal Sensor Placement for 3D Hybrid AOA-TOA Localization Using signed Frame Weights", submitted to IEEE ICASSP 2027.
   
 Teaching Assistant
 ======
